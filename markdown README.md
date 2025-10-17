@@ -36,3 +36,5 @@ A simple command-line application to track daily water intake. This tool allows 
 ## Usage
 
 Run the `main.py` script to interact with the Hydration Tracker:
+
+Additional details added.
